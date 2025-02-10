@@ -1,0 +1,16 @@
+для работы с текстом в linux удобны следующие команд
+cut
+expand
+fmt
+join
+nl
+od
+paste
+pr
+sed
+sort
+tail
+tr
+unexpand
+uniq
+wc
